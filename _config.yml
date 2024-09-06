@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "周炳辉 / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "周炳辉"
 description              : &description "personal description"
 url                      : "https://zhoubinghui.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "zhoubinghui128/zhoubinghui.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "周炳辉"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "天天开心"
+  location         : "福建龙岩"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
